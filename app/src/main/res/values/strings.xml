@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aula02</string>
+    <string name="versao">Versão 1.0</string>
+    <string name="label_nome">Nome</string>
+    <string name="hint_nome">Informe seu nome</string>
+    <string name="curso_android">Android</string>
+    <string name="curso_ios">IOS</string>
+    <string name="curso_iot">IoT</string>
+    <string name="curso_java">Java</string>
+    <string name="label_curso">Cursos</string>
+    <string name="rbManha">Manhã</string>
+    <string name="rbNoite">Noite</string>
+    <string name="label_periodo">Período</string>
+    <string name="btnParticipar">Participar</string>
+    <string name="confirmacao">O Sr(a) %1$s está participando do curso %2$s no periodo da %3$s</string>
+</resources>

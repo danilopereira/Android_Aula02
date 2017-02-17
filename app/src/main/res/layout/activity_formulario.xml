@@ -16,8 +16,7 @@
         android:orientation="vertical">
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/label"
             android:text="@string/label_nome"/>
 
         <EditText
@@ -27,8 +26,7 @@
             android:id="@+id/etNome"/>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/label"
             android:text="@string/label_curso"/>
 
         <Spinner
@@ -38,8 +36,7 @@
             android:entries="@array/cursos"></Spinner>
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            style="@style/label"
             android:text="@string/label_periodo"/>
 
         <RadioGroup
